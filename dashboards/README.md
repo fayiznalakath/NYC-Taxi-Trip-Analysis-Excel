@@ -1,1 +1,1 @@
-Dashboard PDF
+* 📄 Dashboard PDF – see full dashboard view in PDF
